@@ -1,20 +1,20 @@
 # site settings
-title: Javier de la Rosa
-subtitle: PhD
+title: versae
+subtitle: es
 email: versae@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Digital Humanist, Machine Learning Practioner, Researcher<br />Currently working at the Center for Interdisciplinary Digital Research, <br />Stanford University Libraries.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 557 Escondido Mall
+city: Stanford
+state: CA
+zip_code: 94305
 country: United States of America
-phone: (716) 555-5555
+phone: (650) 206-3888
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
