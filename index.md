@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Javier de la Rosa, PhD'
 description: null
 image: null
 author: null
